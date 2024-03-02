@@ -1,1 +1,2 @@
-This is my git pratice[D[D[D[Dctice
+This is my git practice
+Adding a line from remote repo
